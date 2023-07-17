@@ -18,7 +18,7 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka_all_time-->
 
-#### The Past 7 Days
+#### The Last 7 Days
 <!--START_SECTION:waka_last_7-->
 
 ```txt
