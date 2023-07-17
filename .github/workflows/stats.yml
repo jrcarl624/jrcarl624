@@ -19,5 +19,8 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           SHOW_TIME: true
+          SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
+          CODE_LANG: rust
+          SECTION_NAME: waka_all_time
