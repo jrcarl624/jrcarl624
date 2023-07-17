@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme_all_time:
-    name: WakaReadme DevMetrics All Time
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     permissions: write-all
     steps:
@@ -24,11 +24,6 @@ jobs:
           LANG_COUNT: 10
           CODE_LANG: rust
           SECTION_NAME: waka_all_time
-  update-readme_last_7:
-    name: WakaReadme DevMetrics Last 7 Days
-    runs-on: ubuntu-latest
-    permissions: write-all
-    steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
