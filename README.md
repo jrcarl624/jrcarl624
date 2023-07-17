@@ -2,12 +2,10 @@
 
 Introduction comming soon.
 
-### Statistics
+### Time Statistics
 Recorded using [wakatime](wakatime.com).
 
-#### Total 
-<!--START_SECTION:waka_all_time-->
-
+<!--START_SECTION:waka-->
 ```txt
 Rust         28 hrs 41 mins  ████████████████████████▓   98.99 %
 TOML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
@@ -15,18 +13,5 @@ Markdown     6 mins          ░░░░░░░░░░░░░░░░░
 Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+<!--END_SECTION:waka-->
 
-<!--END_SECTION:waka_all_time-->
-
-#### The Last 7 Days
-<!--START_SECTION:waka_last_7-->
-
-```txt
-Rust         28 hrs 41 mins  ████████████████████████▓   98.99 %
-TOML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Markdown     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka_last_7-->
