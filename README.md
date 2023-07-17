@@ -1,4 +1,4 @@
-# Joshua Carlson
+# Welcome
 
 Introduction comming soon.
 
