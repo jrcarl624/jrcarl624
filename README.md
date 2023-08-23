@@ -8,7 +8,7 @@ Recorded using [wakatime](wakatime.com).
 <!--START_SECTION:waka-->
 
 ```rust
-From: 06 June 2021 - To: 20 August 2023
+From: 06 June 2021 - To: 21 August 2023
 
 Total Time: 2,085 hrs 26 mins
 
