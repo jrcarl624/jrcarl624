@@ -10,7 +10,7 @@ Recorded using [wakatime](wakatime.com).
 ```rust
 From: 06 June 2021 - To: 05 March 2024
 
-Total Time: 2,535 hrs 39 mins
+Total Time: 2,489 hrs 7 mins
 
 TypeScript         916 hrs 42 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.15 %
 Rust               813 hrs 55 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.10 %
