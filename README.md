@@ -1,5 +1,5 @@
 # Welcome
-hello there.
+Hello there.
 
 ### Time Statistics
 Recorded using [wakatime](wakatime.com).
