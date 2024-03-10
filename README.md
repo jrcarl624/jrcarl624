@@ -1,6 +1,5 @@
 # Welcome
-
-Introduction comming soon.
+hello there.
 
 ### Time Statistics
 Recorded using [wakatime](wakatime.com).
