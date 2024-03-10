@@ -6,7 +6,7 @@ Recorded using [wakatime](wakatime.com).
 
 <!--START_SECTION:waka-->
 
-```ts
+```cpp
 From: 06 June 2021 - To: 08 March 2024
 
 Total Time: 2,503 hrs 18 mins
