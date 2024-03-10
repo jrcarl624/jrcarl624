@@ -22,5 +22,5 @@ jobs:
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
           LANG_COUNT: 10
-          CODE_LANG: rust
+          CODE_LANG: ocaml
           SECTION_NAME: waka
