@@ -7,7 +7,7 @@ Recorded using [wakatime](wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 06 June 2021 - To: 19 August 2024
+From: 06 June 2021 - To: 20 August 2024
 
 Total Time: 3,131 hrs 4 mins
 
