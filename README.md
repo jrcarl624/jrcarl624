@@ -7,7 +7,7 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 06 June 2021 - To: 01 February 2026
+From: 06 June 2021 - To: 02 February 2026
 
 Total Time: 5,298 hrs 13 mins
 
