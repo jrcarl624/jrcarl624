@@ -7,19 +7,19 @@ Recorded using [wakatime](https://wakatime.com).
 <!--START_SECTION:waka-->
 
 ```ocaml
-From: 06 June 2021 - To: 29 May 2026
+From: 06 June 2021 - To: 30 May 2026
 
-Total Time: 5,481 hrs 21 mins
+Total Time: 5,484 hrs 38 mins
 
-Rust               2,024 hrs 26 mins     ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.17 %
-TypeScript         1,746 hrs 25 mins     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.20 %
+Rust               2,027 hrs 8 mins      ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   36.20 %
+TypeScript         1,746 hrs 25 mins     ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.19 %
 Python             341 hrs 36 mins       ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.10 %
 JSON               328 hrs 12 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.86 %
 JavaScript         206 hrs 33 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.69 %
-C++                202 hrs 24 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.62 %
+C++                202 hrs 24 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.61 %
 Java               150 hrs 43 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.69 %
 Other              115 hrs 29 mins       ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.06 %
-Markdown           95 hrs 56 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.71 %
+Markdown           96 hrs 32 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.72 %
 HTML               66 hrs 33 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.19 %
 Text               49 hrs 46 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.89 %
 TOML               40 hrs 21 mins        ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.72 %
